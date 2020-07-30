@@ -1,0 +1,1 @@
+<p>O projeto tem o intuito de servir como um meio de pesquisa para um determinado banco de dados que foi colocado, onde o usuário, sendo ele funcionário ou gerente deve fazer seu login, e em seguida fazer suas buscas</p>
